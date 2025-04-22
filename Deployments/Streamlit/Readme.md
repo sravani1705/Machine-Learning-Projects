@@ -5,4 +5,4 @@
 3. To run, execute streamlit run dec_tree_streamlit.py. A url opens directly in a web browser and input fields are filled as per user requirement.
 4. The output is shown as below after clicking on cardiovascular test button
 
-![alt_text]()
+![alt_text](https://github.com/sravani1705/Machine-Learning-Projects/blob/main/Deployments/Streamlit/Streamlit.png)

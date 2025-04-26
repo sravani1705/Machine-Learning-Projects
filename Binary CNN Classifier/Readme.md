@@ -1,4 +1,4 @@
-### Brain Tumor Detection
+# Brain Tumor Detection
 # Dataset
 1.Download the dataset from kaggle "https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection"
 2. Extract the zip file and sort the files to train and test folders
@@ -9,4 +9,7 @@
 3. Save the model weights for future evaluation
 4. Load the saved weights and evaluate the built model with a test image
 
+# Deploy
+The model is deployed using streamlit and to run the app, execute streamlit run streamlit_brain.py
+![alt_text]()
  

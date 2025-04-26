@@ -11,5 +11,5 @@
 
 # Deploy
 The model is deployed using streamlit and to run the app, execute streamlit run streamlit_brain.py
-![alt_text]()
+![alt_text]('https://github.com/sravani1705/Machine-Learning-Projects/Binary CNN Classifier/brain_tumor1.png')
  
